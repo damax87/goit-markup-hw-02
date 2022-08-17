@@ -1,0 +1,62 @@
+body {
+  background: #fff;
+  color: #212121;
+}
+ul {
+  list-style: none;
+}
+
+.site-nav .link.current {
+    color: #2196f3;
+}
+.logo-web {
+   color: #2196f3; 
+}
+.logo-studio {
+    color: #000000;
+}
+.link {
+  color: #212121;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+.contacts-head {
+  color: #757575;
+}
+.contacts-head:hover,
+.contacts-head:focus {
+  color: #2196f3;
+}
+
+.hero-title {
+    color: #ffffff;
+    background-color: #2F303A;
+}
+.hero-button {
+    color: #ffffff;
+    background-color: #2196F3;
+}
+
+.feature-title, 
+.example-title, 
+.crew-title, 
+.crew-name {
+   color: #212121; 
+}
+.feature-text, 
+.special {
+   color: #757575; 
+}
+.foot {
+    background-color: #2F303A;
+    color: #ffffff;
+}
+/* цвет основного текста #212121
+
+/* вторичный цвет #757575
+
+/* цвет при наведении #2196F3
+
+/* белый цвет ##FFFFFF
