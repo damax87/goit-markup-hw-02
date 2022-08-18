@@ -16,18 +16,13 @@ ul {
   height: 31px;
   left: 215px;
   top: 24px;
-
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
-  /* identical to box height */
-
   letter-spacing: 0.03em;
-
   color: #2196f3;
-
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .logo-studio {
@@ -36,18 +31,13 @@ ul {
   height: 31px;
   left: 215px;
   top: 24px;
-
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
-  /* identical to box height */
-
   letter-spacing: 0.03em;
-
   color: #000000;
-
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .logo-studio-white {
@@ -56,16 +46,12 @@ ul {
   height: 31px;
   left: 215px;
   top: 2154px;
-
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 31px;
-  /* identical to box height */
-
   letter-spacing: 0.03em;
-
   color: #ffffff;
 }
 .link {
